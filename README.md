@@ -17,7 +17,7 @@
         &nbsp;
         <a href="mailto://cuongnc2404@gmail.com"><img width="30px" height="30px" src="https://raw.githubusercontent.com/caocuong2404/caocuong2404/main/img/gmail.svg" alt="Email"></a>
         &nbsp;
-        <a href="https://twitter.com/khanhtncva"><img width="30px" height="30px" src="https://raw.githubusercontent.com/caocuong2404/caocuong2404/main/img/twitter.svg" alt="Twitter"></a>
+        <a href="https://twitter.com/caocuong2404"><img width="30px" height="30px" src="https://raw.githubusercontent.com/caocuong2404/caocuong2404/main/img/twitter.svg" alt="Twitter"></a>
         &nbsp;
         <a href="https://twitch.tv/caocuong2404"><img width="30px" height="30px" src="https://raw.githubusercontent.com/caocuong2404/caocuong2404/main/img/twitch.svg" alt="Twitch"></a>
         &nbsp;
