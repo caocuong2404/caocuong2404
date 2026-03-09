@@ -47,7 +47,7 @@ I'm a software engineer from Vietnam with a passion for crafting beautiful and e
         &nbsp;
         <a href="https://cuong.day"><img width="30px" height="30px" src="./icons/news.svg" alt="News"></a>
         &nbsp;
-        <a href="https://google.com/search?q=caocuong2404?utm_source=github&utm_medium=readme&utm_campaign=caocuong2404"><img width="30px" height="30px" src="./icons/google.svg" alt="Google"></a>
+        <a href="https://google.com/search?q=caocuong2404&utm_source=github&utm_medium=readme&utm_campaign=caocuong2404"><img width="30px" height="30px" src="./icons/google.svg" alt="Google"></a>
     </div>
 </section>
 
